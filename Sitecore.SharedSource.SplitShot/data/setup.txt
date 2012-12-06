@@ -1,0 +1,3 @@
+Add the following line to your layout file <head> section
+
+<sc:Sublayout runat="server" Path="/sitecore modules/Web/SplitShot/Resources.ascx" />
